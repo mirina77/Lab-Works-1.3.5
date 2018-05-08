@@ -1,0 +1,43 @@
+body{
+	background-image: url("image/world-map.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+	}
+h1{
+	font-size: 28px;
+	letter-spacing: 4px;/*расстояние между буквами*/
+	text-align: center;
+	color: #618ad2;	
+	font-family: sans-serif;	
+	font-weight: bold;
+}
+h2{
+	letter-spacing: 2px;
+	font-family: cursive;
+	text-align: center;
+	font-style: italic;
+	font-weight: normal;
+}
+a:link{
+	color: blue;
+}
+a:visited{
+	color: darkgrey;
+}
+a:active{
+	color: green;
+}
+a:hover{	
+    color: purple; 
+    } 
+
+
+.content: {
+	color: darkslategrey;
+	text-indent: 20px; /* Отступ первой строки */
+	text-align: justify;
+
+}
